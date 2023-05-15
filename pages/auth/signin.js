@@ -23,7 +23,7 @@ export default function Signin() {
         });
       }
       router.push("/");
-      redirect("/");
+      // redirect("/");
     } catch (error) {
       console.log(error);
     }
