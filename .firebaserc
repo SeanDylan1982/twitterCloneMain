@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "twitterclonevercel"
+  },
+  "targets": {},
+  "etags": {
+    "twitterclonevercel": {
+      "extensionInstances": {}
+    }
+  }
+}
